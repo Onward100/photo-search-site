@@ -6,7 +6,7 @@
 }
 
 body {
-  background: rgb(58, 14, 108);
+  background: black;
   color: white;
 }
 
@@ -21,7 +21,7 @@ form {
   max-width: 600px;
   margin: auto;
   height: 80px;
-  background: #434989;
+  background: #654389;
   display: flex;
   align-items: center;
   border-radius: 8px;
@@ -45,7 +45,7 @@ form button {
   border: 0;
   outline: 0;
   font-size: 18px;
-  background: #ff3929;
+  background: #88219b;
   border-top-right-radius: 8px;
   border-bottom-right-radius: 8px;
   cursor: pointer;
